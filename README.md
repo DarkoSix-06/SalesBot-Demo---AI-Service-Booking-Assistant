@@ -1,4 +1,4 @@
-# 🚗 SalesBot – AI-Powered Car Service Booking Assistant
+# SalesBot – AI-Powered Car Service Booking Assistant
 
 An intelligent full-stack web application that integrates **Google Gemini AI** with a **Spring Boot backend** and **React frontend** to provide a natural conversational car service booking experience.
 
