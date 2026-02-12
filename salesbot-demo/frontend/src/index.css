@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- your existing CSS can stay below ---- */
+/* (you can delete or keep; Tailwind will coexist) */
+
+* { box-sizing: border-box; }
+/* ...the rest of your current styles... */
