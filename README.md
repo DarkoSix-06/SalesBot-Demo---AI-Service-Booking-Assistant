@@ -12,6 +12,7 @@ This system allows users to:
 - Receive AI-powered confirmation
 
 ---
+![WhatsApp Image 2026-03-20 at 23 56 51](https://github.com/user-attachments/assets/62c42ba6-806c-4a1c-ab8b-01e8c53b36d1)
 
 ## 🌟 Features
 
